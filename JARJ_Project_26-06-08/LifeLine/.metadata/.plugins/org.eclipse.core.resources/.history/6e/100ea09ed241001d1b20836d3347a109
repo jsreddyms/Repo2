@@ -1,0 +1,17 @@
+package com.tcs.ilp.hospital.jdbcconnection;
+
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet Class
+ *
+ * @web.servlet              name="oracleconnection"
+ *                           display-name="Name for oracleconnection"
+ *                           description="Description for oracleconnection"
+ * @web.servlet-mapping      url-pattern="/oracleconnection"
+ * @web.servlet-init-param   name="A parameter"
+ *                           value="A value"
+ */
+public class oracleconnection extends HttpServlet {
+
+}

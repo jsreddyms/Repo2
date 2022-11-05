@@ -1,0 +1,57 @@
+CONNECTION TO CVS
+-----------------
+R.C on project -> Team -> Share Project -> select (create a new repository location) ->
+ (host:10.0.209.19, Repository Path: /home/js01b38/cvsroot, User: js01b38, Password: tcsbbsr(varing), Connection Type: extssh->next->use project name as module name -> next -> next -> finish -> type comment -> finish
+
+
+CHANGE TO UPDATE IN CVS
+-----------------------
+r.c on project -> Team -> Update
+
+
+DISCONNECT FROM CVS
+-------------------
+r.c on project -> Team -> Disconnect
+
+
+connect to same cvs again from same laptop
+------------------------------------------
+r.c on project->Team->share project->finish 
+
+
+
+To access CVS from other Laptop
+--------------------------------------
+File->New->Other->expand CVS->checkout projects from cvs->next->
+create a new repository location->............
+
+
+End of each Lab
+---------------
+(Important: FINALLY UPDATE AND THEN DISCONNECT)
+
+
+********************ACTIVE END****************
+To Access and Save Updated File
+--------------------------------------
+Access in normal way
+R.C on >ProjectName -> Team -> Commit -> .......
+
+(use and existing module)(3rd option)->next->finish->finish.....->cvs root->next
+
+
+
+icalms:::
+Learning--catalog-advance search- title(any subject )-search learning catalog-Register
+------------------------
+Learing-my enrollments--launch
+
+
+
+Bina:::::
+pj01b37---batch 37 & tg-1
+pj02b37---batch 37 & tg-2
+
+password---tcsbbsr(same for all batch)
+
+10.0.207.10

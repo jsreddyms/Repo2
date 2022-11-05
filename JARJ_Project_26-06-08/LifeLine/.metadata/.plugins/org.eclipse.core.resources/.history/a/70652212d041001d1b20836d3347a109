@@ -1,0 +1,7 @@
+package com.tcs.ilp.hospital.Registration;
+
+import javax.servlet.http.HttpServlet;
+
+public class PatientRegistration extends HttpServlet {
+
+}

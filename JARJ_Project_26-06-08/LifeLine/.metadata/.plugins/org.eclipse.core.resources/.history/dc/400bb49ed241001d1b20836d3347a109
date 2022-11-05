@@ -1,0 +1,17 @@
+package com.tcs.ilp.hospital.Login;
+
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet Class
+ *
+ * @web.servlet              name="LogIn"
+ *                           display-name="Name for LogIn"
+ *                           description="Description for LogIn"
+ * @web.servlet-mapping      url-pattern="/LogIn"
+ * @web.servlet-init-param   name="A parameter"
+ *                           value="A value"
+ */
+public class LogIn extends HttpServlet {
+
+}

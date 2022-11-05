@@ -1,0 +1,56 @@
+Step 1. Create new prject
+File-->new->J2EE PROJECTS -> J2EE 1.4 Project-->strutsprojectname-->
+Finish
+
+Step 2. RC on Project -> Properties-> go to "Java Build path" -> go to Source tab
+Add Folder named "src", Default output folder as <project name>/bin
+
+Step 3. Configure XDoclet (for creation of WEB-INF and related files)
+Project Properties -> XDoclet configturaiton -> enable XDoclet -> Add Standard -> select standard web -> give a name and enter-->ok
+
+..Click on docLet name (given above) and disable jsptaglib
+
+Step 4. RC on Project -> run XDoclet (this will generate related files under src/WEB-INF)
+
+Step 5. For packaging (configuring a war)
+Project Properties -> Packaging configuraiton -> enable packaging -> add Standard -> standard war -> give some name of the war file
+
+Expand the war file, and unCheck Menifest (first option)servlet
+
+Step 6. rc on project properties--->java build path---->Libraries-->add external jars-->c:\struts1.2.9.-bin-->lib-->struts.jar-->open-->ok
+
+
+Step 7. RC on project -->new-->folder-->mydocroot-->finish
+Rc  ON mydocroot -->new-->other-->web-->html-->next-->(give file name)eg.. register.html--->next-->finish-->typecode ur code-->save
+
+similarly other html files..eg.(sucess.html,failure.html)	
+
+Step 8: RC on src -->new-->other-->jboss-ide-->webcomponents-->httpservlet-->next
+giv file name-->extend that class to "ActionServlet" class---->finish.
+
+Step 9: Rc ON SRC -->new-->class-->create a class which extends to "Action"----->Finish
+
+Step 10: Rc ON SRC -->new-->class-->create a class which extends to "ActionForm"----->Finish
+
+Step 11:RC on project -->run Xdoclet 
+
+Step 12:expand project-->expand src---->
+RC on web-inf-->new-->folder-->folder name as "lib"-->finish
+
+Step 13:RC on lib-->import-->file system
+next from directory(browse)-->c:/struts-1.2.9-bin-->lib-->ok-->check(lib)-->finish
+
+Step 14:rc on WEB-inf-->new-->file-->filename as"struts-config.xml"-->finish
+
+RC on project name-->properties-->packaging configaration--->RC on war file-->adddfolder--> project folder-->expand project-->mydocroot-->ok-->ok
+
+Step 15:rc on war-->addfolder-->project folder-->expand src-->expand web-inf
+-->lib-->ok-->prefix(WEB-INF/lib)-->ok
+
+Step 16:rc on warfile-->addfile-->project file-->expand src-->expand webinf-->struts-config.xml-->ok-->(prefix)WEB-INF-->ok-->apply-->ok
+
+After all the above steps  write the codes of the files created then
+RC on project name--> run packaging---->
+run the server
+deploy the war file
+http://localhost:8080/strut/registerme.html

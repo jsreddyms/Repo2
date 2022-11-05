@@ -1,0 +1,7 @@
+package com.tcs.ilp.hospital.DAO;
+
+import javax.servlet.http.HttpServlet;
+
+public class HospitalDAO extends HttpServlet {
+
+}

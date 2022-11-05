@@ -1,0 +1,58 @@
+Step 1. Create new prject
+JBOSS-IDE->J2EE PROJECTS -> J2EE 1.4 Project
+Finish
+
+Step 2. RC on Project -> Properties-> go to "Java Build path" -> go to Source tab
+Add Folder named "src", Default output folder as <project name>/bin
+
+step :RC to src folder->new->other->JBoss-IDE->web componets->Http Servlet->next-> then gv the class name & from the buttom 
+select the method  u want to use in ur class->finish
+
+Step 3. Create a sample HTML page
+Create a folder under the project
+ RC on project -> new -> folder -> <folder name>e.g myFolder
+
+RightClick on myFolder -> new -> other -> web -> HTML
+give a filename e.g. hello.html
+
+Step 4. Configure XDoclet (for creation of WEB-INF and related files)
+Project Properties -> XDoclet configturaiton -> enable XDoclet -> Add Standard -> select standard web -> give a name and enter
+
+Click on docLet name (given above) and disable jsptaglib
+
+Step 5. RC on Project -> run XDoclet (this will generate related files under src/WEB-INF)
+
+Step 6. For packaging (configuring a war)
+Project Properties -> Packaging configuraiton -> enable packaging -> add Standard -> standard war -> give some name of the war file
+
+Expand the war file, and unCheck Menifest (first option)
+
+Step 7. Create a WAR (Web ARchive) file for deployment into server.
+RC on Project -> Run Packaging (CTL SHIFT F2)
+
+7.(a)  Create a folder webroot in the project.
+
+7.(b) Add the line 
+<zipfileset dir="webroot"/> 
+after the  folowing line to packaging-build.xml and agian run the packaging.
+
+<zipfileset dir="bin" prefix="WEB-INF/classes" includes="**/*.class"/>
+
+
+Step 8. Create a server domain
+Click on "Run" Menu -> Debug ->
+choose JBOSS 4.0.x
+click "new"
+give the name of domain (default is New_COnfiguraiton)
+Give the locaiton of JBOSS as home (C:\jboss4.0.2)
+select "all" in the configuraiton
+Click on "Debug" button to start/launch the Catch ()server domain
+
+
+Step 9. Deploying the war file
+Right click on warfile -> "deploy to" -> <domain created above>
+
+step 10. To view your applicaiton
+in URL bar give http://localhost:8080/<warfileName>
+
+

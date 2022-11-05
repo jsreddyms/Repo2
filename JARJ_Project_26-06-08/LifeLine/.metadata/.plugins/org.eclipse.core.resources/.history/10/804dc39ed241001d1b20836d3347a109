@@ -1,0 +1,17 @@
+package com.tcs.ilp.hospital.Registration;
+
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet Class
+ *
+ * @web.servlet              name="PatientRegistration"
+ *                           display-name="Name for PatientRegistration"
+ *                           description="Description for PatientRegistration"
+ * @web.servlet-mapping      url-pattern="/PatientRegistration"
+ * @web.servlet-init-param   name="A parameter"
+ *                           value="A value"
+ */
+public class PatientRegistration extends HttpServlet {
+
+}

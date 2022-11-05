@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="17" version="2.0">
+<workbenchAdvisor/>
+<window height="738" width="1024" x="0" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="165" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="org.eclipse.jst.ws.consumption" itemType="typeToolBarContribution" x="36" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="180" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ant.ui.internal.editor.AntEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="113" y="22"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HospitalDAO.java" partName="HospitalDAO.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/DAO/HospitalDAO.java" title="HospitalDAO.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/DAO/HospitalDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/HospitalDAO.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="oracleconnection.java" partName="oracleconnection.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java" title="oracleconnection.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="oracleconnection.java" partName="oracleconnection.java" path="C:/LifeLine/old/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java" title="oracleconnection.java" tooltip="old/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/src/com/tcs/ilp/hospital/jdbcconnection/oracleconnection.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LogIn.java" partName="LogIn.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Login/LogIn.java" title="LogIn.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Login/LogIn.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Login/LogIn.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LogIn.java" partName="LogIn.java" path="C:/LifeLine/old/src/com/tcs/ilp/hospital/Login/LogIn.java" title="LogIn.java" tooltip="old/src/com/tcs/ilp/hospital/Login/LogIn.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/src/com/tcs/ilp/hospital/Login/LogIn.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PatientRegistration.java" partName="PatientRegistration.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java" title="PatientRegistration.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PatientRegistration.java" partName="PatientRegistration.java" path="C:/LifeLine/old/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java" title="PatientRegistration.java" tooltip="old/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="DoctorHome.jsp" partName="DoctorHome.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/DoctorHome.jsp" title="DoctorHome.jsp" tooltip="LifeLine/view/DoctorHome.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/DoctorHome.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="DoctorHome.jsp" partName="DoctorHome.jsp" path="C:/LifeLine/old/view/DoctorHome.jsp" title="DoctorHome.jsp" tooltip="old/view/DoctorHome.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/DoctorHome.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LifeLineFailure.jsp" partName="LifeLineFailure.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/LifeLineFailure.jsp" title="LifeLineFailure.jsp" tooltip="LifeLine/view/LifeLineFailure.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/LifeLineFailure.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LifeLineFailure.jsp" partName="LifeLineFailure.jsp" path="C:/LifeLine/old/view/LifeLineFailure.jsp" title="LifeLineFailure.jsp" tooltip="old/view/LifeLineFailure.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/LifeLineFailure.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LogIn.jsp" partName="LogIn.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/LogIn.jsp" title="LogIn.jsp" tooltip="LifeLine/view/LogIn.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/LogIn.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="LogIn.jsp" partName="LogIn.jsp" path="C:/LifeLine/old/view/LogIn.jsp" title="LogIn.jsp" tooltip="old/view/LogIn.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/LogIn.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="NewPatientRegistration.jsp" partName="NewPatientRegistration.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/NewPatientRegistration.jsp" title="NewPatientRegistration.jsp" tooltip="LifeLine/view/NewPatientRegistration.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/NewPatientRegistration.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="NewPatientRegistration.jsp" partName="NewPatientRegistration.jsp" path="C:/LifeLine/old/view/NewPatientRegistration.jsp" title="NewPatientRegistration.jsp" tooltip="old/view/NewPatientRegistration.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/NewPatientRegistration.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Patient.jsp" partName="Patient.jsp" path="C:/LifeLine/old/view/Patient.jsp" title="Patient.jsp" tooltip="old/view/Patient.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/Patient.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="ReceiptionistHome.jsp" partName="ReceiptionistHome.jsp" path="C:/LifeLine/old/view/ReceiptionistHome.jsp" title="ReceiptionistHome.jsp" tooltip="old/view/ReceiptionistHome.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/ReceiptionistHome.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="ReceiptionistHome.jsp" partName="ReceiptionistHome.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/ReceiptionistHome.jsp" title="ReceiptionistHome.jsp" tooltip="LifeLine/view/ReceiptionistHome.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/ReceiptionistHome.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="RegisterSuccess.jsp" partName="RegisterSuccess.jsp" path="C:/LifeLine/old/view/RegisterSuccess.jsp" title="RegisterSuccess.jsp" tooltip="old/view/RegisterSuccess.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/old/view/RegisterSuccess.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="RegisterSuccess.jsp" partName="RegisterSuccess.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/RegisterSuccess.jsp" title="RegisterSuccess.jsp" tooltip="LifeLine/view/RegisterSuccess.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/RegisterSuccess.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="NewDoctor.jsp" partName="NewDoctor.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/NewDoctor.jsp" title="NewDoctor.jsp" tooltip="LifeLine/view/NewDoctor.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/NewDoctor.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoctorRegistration.java" partName="DoctorRegistration.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorRegistration.java" title="DoctorRegistration.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorRegistration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorRegistration.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="ReportDetails.jsp" partName="ReportDetails.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/ReportDetails.jsp" title="ReportDetails.jsp" tooltip="LifeLine/view/ReportDetails.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/ReportDetails.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoctorDAO.java" partName="DoctorDAO.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/DAO/DoctorDAO.java" title="DoctorDAO.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/DAO/DoctorDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/DoctorDAO.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Prescription.jsp" partName="Prescription.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/Prescription.jsp" title="Prescription.jsp" tooltip="LifeLine/view/Prescription.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/Prescription.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrescriptionUpdate.java" partName="PrescriptionUpdate.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/PrescriptionUpdate.java" title="PrescriptionUpdate.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/PrescriptionUpdate.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/PrescriptionUpdate.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="EnterPrescription.jsp" partName="EnterPrescription.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/EnterPrescription.jsp" title="EnterPrescription.jsp" tooltip="LifeLine/view/EnterPrescription.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/EnterPrescription.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EnterPrescriptionDetail.java" partName="EnterPrescriptionDetail.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.java" title="EnterPrescriptionDetail.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrescriptionDAO.java" partName="PrescriptionDAO.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/DAO/PrescriptionDAO.java" title="PrescriptionDAO.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/DAO/PrescriptionDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/PrescriptionDAO.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="BillGeneratation.jsp" partName="BillGeneratation.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/BillGeneratation.jsp" title="BillGeneratation.jsp" tooltip="LifeLine/view/BillGeneratation.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/BillGeneratation.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Appointment.jsp" partName="Appointment.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/Appointment.jsp" title="Appointment.jsp" tooltip="LifeLine/view/Appointment.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/Appointment.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoctorDetail.java" partName="DoctorDetail.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java" title="DoctorDetail.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" partName="web.xml" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/WEB-INF/web.xml" title="web.xml" tooltip="LifeLine/src/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="LifeLine.war" partName="LifeLine.war" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/LifeLine.war" title="LifeLine.war" tooltip="LifeLine/LifeLine.war" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/LifeLine.war"/>
+</editor>
+<editor id="org.eclipse.ant.ui.internal.editor.AntEditor" name="packaging-build.xml" partName="packaging-build.xml" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/packaging-build.xml" title="packaging-build.xml" tooltip="LifeLine/packaging-build.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/packaging-build.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FixAppointment.java" partName="FixAppointment.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java" title="FixAppointment.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppointmentDAO.java" partName="AppointmentDAO.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java" title="AppointmentDAO.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java"/>
+</editor>
+<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bill.java" partName="Bill.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java" title="Bill.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="DoctorDetails.jsp" partName="DoctorDetails.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/DoctorDetails.jsp" title="DoctorDetails.jsp" tooltip="LifeLine/view/DoctorDetails.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/DoctorDetails.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="Patient.jsp" partName="Patient.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/Patient.jsp" title="Patient.jsp" tooltip="LifeLine/view/Patient.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/Patient.jsp"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="CancelAppointment.jsp" partName="CancelAppointment.jsp" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/view/CancelAppointment.jsp" title="CancelAppointment.jsp" tooltip="LifeLine/view/CancelAppointment.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/view/CancelAppointment.jsp"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CancelAppoinment.java" partName="CancelAppoinment.java" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java" title="CancelAppoinment.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="EnterPrescriptionDetail.class" partName="EnterPrescriptionDetail.class" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/bin/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.class" title="EnterPrescriptionDetail.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.class" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.class"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="DoctorDetail.class" partName="DoctorDetail.class" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/bin/com/tcs/ilp/hospital/Registration/DoctorDetail.class" title="DoctorDetail.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/DoctorDetail.class" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/DoctorDetail.class"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="Bill.class" partName="Bill.class" path="C:/Documents and Settings/user/Desktop/LifeLine/LifeLine/bin/com/tcs/ilp/hospital/Registration/Bill.class" title="Bill.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/Bill.class" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/Bill.class"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" mv_vertical_scroll="0" org.eclipse.jdt.ui.packages.linktypehierarchytoeditor="0" orientation="1" ratio="350" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName=""/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="16" columnWidth1="200" columnWidth2="75" columnWidth3="150" columnWidth4="60" horizontalPosition="0" verticalPosition="0">
+<selection/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+<filter element=".JETEmitters" isEnabled="true"/>
+<filter element="gen" isEnabled="true"/>
+</filters>
+<expanded>
+<element path="/LifeLine"/>
+<element path="/LifeLine/src"/>
+<element path="/LifeLine/src/com"/>
+<element path="/LifeLine/src/com/tcs"/>
+<element path="/LifeLine/src/com/tcs/ilp"/>
+<element path="/LifeLine/src/com/tcs/ilp/hospital"/>
+<element path="/LifeLine/src/com/tcs/ilp/hospital/DAO"/>
+<element path="/LifeLine/src/com/tcs/ilp/hospital/Registration"/>
+<element path="/LifeLine/src/WEB-INF"/>
+<element path="/LifeLine/view"/>
+</expanded>
+<selection>
+<element path="/LifeLine"/>
+</selection>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.views.ResourceNavigator" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.hibernate.eclipse.launch.actionset"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.deployer.ui.actions.Deployment"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.packaging.ui.actions.Packaging"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.xdoclet.run.ui.actions.XDoclet"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.ws.consumption"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@151fcea">
+<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@159780d" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="org.eclipse.ui.internal.ViewStack@151fcea">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.views.ProgressView" ratio="0.74121404" ratioLeft="464" ratioRight="162" relationship="4" relative="org.eclipse.ui.internal.ViewStack@151fcea"/>
+<info part="org.eclipse.jdt.junit.ResultView" ratio="0.49933776" ratioLeft="377" ratioRight="378" relationship="2" relative="org.eclipse.ui.views.ProgressView"/>
+<info part="org.eclipse.search.ui.views.SearchView" ratio="0.5" ratioLeft="503" ratioRight="503" relationship="2" relative="org.eclipse.ui.views.ProgressView"/>
+<info part="org.eclipse.ui.views.BookmarkView" ratio="0.5" ratioLeft="503" ratioRight="503" relationship="2" relative="org.eclipse.ui.views.ProgressView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@205756" ratio="0.7496689" ratioLeft="566" ratioRight="189" relationship="2" relative="org.eclipse.ui.internal.ViewStack@151fcea">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.32602194" ratioLeft="327" ratioRight="676" relationship="2" relative="org.eclipse.ui.internal.ViewStack@151fcea"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@9875a3" ratio="0.7488076" ratioLeft="471" ratioRight="158" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorRegistration.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/PrescriptionUpdate.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/DAO/DoctorDAO.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/Appointment.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/BillGeneratation.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/CancelAppointment.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/DoctorDetails.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/DoctorHome.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/EnterPrescription.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/LifeLineFailure.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/LogIn.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/NewDoctor.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/NewPatientRegistration.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/Patient.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/Prescription.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/ReceiptionistHome.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/RegisterSuccess.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/LifeLine/view/ReportDetails.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorRegistration.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/PatientRegistration.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/LifeLine/src/com/tcs/ilp/hospital/Registration/PrescriptionUpdate.java"/>
+</editors>
+<item historyLabel="AppointmentDAO.java" index="1">
+<position/>
+</item>
+<item historyLabel="EnterPrescriptionDetail.java" index="2">
+<position/>
+</item>
+<item historyLabel="DoctorRegistration.java" index="3">
+<position/>
+</item>
+<item historyLabel="DoctorDetail.java" index="4">
+<position/>
+</item>
+<item historyLabel="PrescriptionUpdate.java" index="5">
+<position/>
+</item>
+<item historyLabel="AppointmentDAO.java" index="1">
+<position/>
+</item>
+<item historyLabel="DoctorDAO.java" index="6">
+<position/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position info="not_deleted" x="3597" y="0"/>
+</item>
+<item historyLabel="DoctorDAO.java" index="6">
+<position/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position/>
+</item>
+<item historyLabel="DoctorDAO.java" index="6">
+<position info="not_deleted" x="2100" y="127"/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position/>
+</item>
+<item historyLabel="DoctorDAO.java" index="6">
+<position info="not_deleted" x="2100" y="127"/>
+</item>
+<item historyLabel="AppointmentDAO.java" index="1">
+<position/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position info="not_deleted" x="3443" y="0"/>
+</item>
+<item historyLabel="Appointment.jsp" index="7">
+<position/>
+</item>
+<item historyLabel="BillGeneratation.jsp" index="8">
+<position/>
+</item>
+<item historyLabel="CancelAppointment.jsp" index="9">
+<position/>
+</item>
+<item historyLabel="DoctorDetails.jsp" index="10">
+<position/>
+</item>
+<item historyLabel="DoctorHome.jsp" index="11">
+<position/>
+</item>
+<item historyLabel="EnterPrescription.jsp" index="12">
+<position/>
+</item>
+<item historyLabel="LifeLineFailure.jsp" index="13">
+<position/>
+</item>
+<item historyLabel="LogIn.jsp" index="14">
+<position/>
+</item>
+<item historyLabel="NewDoctor.jsp" index="15">
+<position/>
+</item>
+<item historyLabel="NewPatientRegistration.jsp" index="16">
+<position/>
+</item>
+<item historyLabel="Patient.jsp" index="17">
+<position/>
+</item>
+<item historyLabel="Prescription.jsp" index="18">
+<position/>
+</item>
+<item historyLabel="ReceiptionistHome.jsp" index="19">
+<position/>
+</item>
+<item historyLabel="RegisterSuccess.jsp" index="20">
+<position/>
+</item>
+<item historyLabel="ReportDetails.jsp" index="21">
+<position/>
+</item>
+<item historyLabel="Bill.java" index="22">
+<position/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position/>
+</item>
+<item historyLabel="DoctorDetail.java" index="23">
+<position/>
+</item>
+<item historyLabel="DoctorRegistration.java" index="24">
+<position/>
+</item>
+<item historyLabel="EnterPrescriptionDetail.java" index="25">
+<position/>
+</item>
+<item historyLabel="FixAppointment.java" index="26">
+<position/>
+</item>
+<item historyLabel="PatientRegistration.java" index="27">
+<position/>
+</item>
+<item historyLabel="PrescriptionUpdate.java" index="28">
+<position/>
+</item>
+<item historyLabel="PatientRegistration.java" index="27">
+<position info="not_deleted" x="2184" y="0"/>
+</item>
+<item historyLabel="Appointment.jsp" index="7">
+<position info="not_deleted" x="324" y="57"/>
+</item>
+<item historyLabel="Bill.java" index="22">
+<position info="not_deleted" x="2359" y="0"/>
+</item>
+<item historyLabel="CancelAppoinment.java" index="0">
+<position info="not_deleted" x="2638" y="0"/>
+</item>
+<item historyLabel="DoctorDetail.java" index="23">
+<position/>
+</item>
+<item historyLabel="DoctorRegistration.java" index="24">
+<position info="not_deleted" x="2302" y="0"/>
+</item>
+<item historyLabel="EnterPrescriptionDetail.java" index="25">
+<position info="not_deleted" x="2049" y="0"/>
+</item>
+<item historyLabel="FixAppointment.java" index="26">
+<position info="not_deleted" x="1657" y="0"/>
+</item>
+<item historyLabel="PatientRegistration.java" index="27">
+<position info="not_deleted" x="2063" y="0"/>
+</item>
+<item historyLabel="PrescriptionUpdate.java" index="28">
+<position info="not_deleted" x="2698" y="0"/>
+</item>
+<item active="true" historyLabel="Bill.java" index="22">
+<position info="not_deleted" x="2359" y="0"/>
+</item>
+</navigationHistory>
+<stickyState/>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="AppointmentDAO.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/DAO/AppointmentDAO.class">
+<persistable path="/LifeLine/bin/com/tcs/ilp/hospital/DAO/AppointmentDAO.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Bill.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/Bill.class">
+<persistable path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/Bill.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="DoctorDetail.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/DoctorDetail.class">
+<persistable path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/DoctorDetail.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="EnterPrescriptionDetail.class" tooltip="LifeLine/bin/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.class">
+<persistable path="/LifeLine/bin/com/tcs/ilp/hospital/Registration/EnterPrescriptionDetail.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CancelAppoinment.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java">
+<persistable path="/LifeLine/src/com/tcs/ilp/hospital/Registration/CancelAppoinment.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="CancelAppointment.jsp" tooltip="LifeLine/view/CancelAppointment.jsp">
+<persistable path="/LifeLine/view/CancelAppointment.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="Patient.jsp" tooltip="LifeLine/view/Patient.jsp">
+<persistable path="/LifeLine/view/Patient.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="DoctorDetails.jsp" tooltip="LifeLine/view/DoctorDetails.jsp">
+<persistable path="/LifeLine/view/DoctorDetails.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bill.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java">
+<persistable path="/LifeLine/src/com/tcs/ilp/hospital/Registration/Bill.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AppointmentDAO.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java">
+<persistable path="/LifeLine/src/com/tcs/ilp/hospital/DAO/AppointmentDAO.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FixAppointment.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java">
+<persistable path="/LifeLine/src/com/tcs/ilp/hospital/Registration/FixAppointment.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ant.ui.internal.editor.AntEditor" name="packaging-build.xml" tooltip="LifeLine/packaging-build.xml">
+<persistable path="/LifeLine/packaging-build.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="LifeLine.war" tooltip="LifeLine/LifeLine.war">
+<persistable path="/LifeLine/LifeLine.war"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="LifeLine/src/WEB-INF/web.xml">
+<persistable path="/LifeLine/src/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoctorDetail.java" tooltip="LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java">
+<persistable path="/LifeLine/src/com/tcs/ilp/hospital/Registration/DoctorDetail.java"/>
+</file>
+</mruList>
+</workbench>

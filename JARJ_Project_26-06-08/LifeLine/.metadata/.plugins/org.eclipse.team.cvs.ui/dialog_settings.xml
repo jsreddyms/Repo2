@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CommitWizard">
+		<item key="width" value="400"/>
+		<item key="height" value="430"/>
+	</section>
+	<section name="SharingWizard">
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_HOSTNAME_ID">
+			<item value="10.0.209.19"/>
+		</list>
+		<list key="ConfigurationWizardMainPage.STORE_PATH_ID" value="10.0.209.19">
+			<item value="/home/pj01b01/cvsroot"/>
+		</list>
+		<list key="ConfigurationWizardMainPage.STORE_USERNAME_ID" value="/home/pj01b01/cvsroot">
+			<item value="pj01b01"/>
+		</list>
+	</section>
+</section>

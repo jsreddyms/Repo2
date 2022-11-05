@@ -1,0 +1,17 @@
+package com.tcs.ilp.hospital.DAO;
+
+import javax.servlet.http.HttpServlet;
+
+/**
+ * Servlet Class
+ *
+ * @web.servlet              name="HospitalDAO"
+ *                           display-name="Name for HospitalDAO"
+ *                           description="Description for HospitalDAO"
+ * @web.servlet-mapping      url-pattern="/HospitalDAO"
+ * @web.servlet-init-param   name="A parameter"
+ *                           value="A value"
+ */
+public class HospitalDAO extends HttpServlet {
+
+}

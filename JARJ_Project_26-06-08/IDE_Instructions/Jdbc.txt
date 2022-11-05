@@ -1,0 +1,37 @@
+ // Load the Oracle JDBC driver
+		DriverManager.registerDriver(new oracle.jdbc.driver.OracleDriver());
+		Connection conn = DriverManager.getConnection(
+				"jdbc:oracle:thin:@10.0.209.150:1521:tcs", "batch45tg8",
+				"password");
+--------------------
+CallableStement csmt =(CallableStatement)conn.prepareCall
+                  ( "{ call PKG_NAME.PRC_NAME(?,?,?,?,?,?,?,?) }" );
+      
+       csmt.setString(1,"NBSM");
+      csmt.setInt(2,700001);
+      csmt.setInt(3,2007);
+      csmt.setString(4,"MTGCUS1");
+      csmt.setString(5,"Chikago");
+      csmt.setString(6,"MTGCUS1_CURRRESI_STATE");
+      csmt.setInt(7,30001);
+      csmt.setString(8,"nref001");
+      csmt.execute();
+ ------------------------------     
+      
+      
+      // Prepared Statement Sample
+      
+       PreparedStatement pstat = null;
+         query="insert into book_details values (?,?,?,?,?,?,?,?,?)";
+		pstat = con.prepareStatement(query);
+		pstat.setInt(1,int_BOOKID);
+		pstat.setInt(2,int_catagoryID);
+		pstat.setString(3,str_TITLE);
+		pstat.setString(4,str_AUTHOR);		
+		pstat.setString(5,str_PUBLISHER);
+		pstat.setString(6,str_EDITION);
+		pstat.setInt(7,int_PRICE);
+		pstat.setInt(8,int_QUANTITY);
+		pstat.setString(9,str_DESCRIPTION);
+		
+		pstat.executeUpdate();
